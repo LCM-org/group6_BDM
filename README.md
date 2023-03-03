@@ -22,5 +22,5 @@ The dataset contains 35 columns and 1470 rows. The columns include demographic i
 
 
 ## Conclusion
-The logistic regression model built in this project can be used to predict employee attrition at a company. The feature importance analysis shows that factors such as job satisfaction, work-life balance and performance rating have a significant impact on employee attrition. Companies can use the insights from this analysis to take appropriate actions to reduce employee turnover and improve employee satisfaction.
+The logistic regression model built in this project can be used by companies to predict employee attrition and take necessary actions to prevent it. By identifying the factors that lead to attrition, companies can improve the work environment and retain their employees.
 
