@@ -1,3 +1,12 @@
+## Group Members
+- Bhumika Rajendra Babu - C0867081
+- Jovi Fez Bartolata - C0869701
+- Maricris Resma - C0872252
+- Pradeep Kumar Bhatt - C0875486
+- Sunny Prashant Dsouza - C0865183
+----
+
+
 # Project Title: Employee Attrition Prediction using Logistic Regression
 This project aims to build a logistic regression model that predicts employee attrition at a company. The dataset used for this project is the IBM HR Analytics Employee Attrition & Performance dataset.
 
